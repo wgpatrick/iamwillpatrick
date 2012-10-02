@@ -82,7 +82,7 @@ Things that need to be on the site somewhere:
 
 
 Colors:
-Red - 239 70 55
-Grey - 80 80 80 
+- Red - 239 70 55
+- Grey - 80 80 80 
 
  
