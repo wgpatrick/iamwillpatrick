@@ -7,9 +7,9 @@ URL: www.iamwillpatrick.com
 
 overall architecture: 
 - home
-projects
-personal
-contact
+- projects
+- personal
+- contact
 
 page by page architecture:
 
